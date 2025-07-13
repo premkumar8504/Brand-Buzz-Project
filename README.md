@@ -1,1 +1,2 @@
-This is my brand website project.
+# BrandBuzz 
+This is my brandbuzz website.
