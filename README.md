@@ -1,1 +1,1 @@
-This is my Brand Website Project.
+This is my brand website project.
